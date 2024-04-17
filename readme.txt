@@ -1,3 +1,4 @@
+This is bad one
 QTester104 Copyright © 2010-2024 Ricardo L. Olsen.
 
     This program is free software: you can redistribute it and/or modify
